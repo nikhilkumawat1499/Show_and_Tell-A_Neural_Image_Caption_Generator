@@ -6,6 +6,11 @@ Automatically describing the content of an image fundamental problem in artifici
 
 Keywords: NLP,Vision,CNN,RNN,LSTM
 
+## Credits:
+The problem is addressed as a part of our internship at IIT Kanpur . It was a collaborative effort involving the following individuals:
+1. Dibyansu Diptiman [Github link](https://github.com/dibyansu24-maker)
+1. Nikhil Kumawat [Github link](https://github.com/nikhilkumawat1499)
+
 ## Table of Contents
 * Abstract
 * Introduction
